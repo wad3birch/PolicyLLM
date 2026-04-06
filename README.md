@@ -1,11 +1,13 @@
 
-# PolicyLLM
+# PolicyLLM [ACL'26]
 
 
 
 The official repository for the paper **PolicyLLM: Towards Excellent Comprehension of Public Policy for Large Language Models**.
 
 ## 🚀 News
+
+- [**Apri. 2026**] Accepted by ACL 2026 findings!
 
 - [**Sept. 2025**] We release the benchmark dataset and first version of our paper.
 
